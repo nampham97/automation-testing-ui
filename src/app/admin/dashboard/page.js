@@ -1,11 +1,11 @@
 import React from 'react';
-import Content from './components/Content';
 
 function Home() {
   return (
-      <>
-        <Content />
-      </>
+    <div className="flex">
+       main dashboard
+
+    </div>
   );
 }
 
